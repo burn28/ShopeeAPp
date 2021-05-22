@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85115784821",
+    "firebase_url": "https://shopeeapp-4fa32-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shopeeapp-4fa32",
+    "storage_bucket": "shopeeapp-4fa32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85115784821:android:2f47e838986baff25c723c",
+        "android_client_info": {
+          "package_name": "com.example.shopeeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85115784821-t26illtv79s20qu0bqqk78v3fij22pi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5IXl5umlmTrxePDRTipExnq8GZJN4dqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85115784821-t26illtv79s20qu0bqqk78v3fij22pi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
